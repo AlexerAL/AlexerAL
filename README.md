@@ -2,7 +2,7 @@
 Hi there!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discordapp.com/users/447816672209010709](https://discord.gg/GN6hSTn6Pa))
 
 # 💻 Tech Stack:
